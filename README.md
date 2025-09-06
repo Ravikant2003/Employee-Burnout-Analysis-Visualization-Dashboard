@@ -91,12 +91,16 @@ An interactive 3-page Power BI dashboard provides actionable insights:
 - Pie Chart: Burnout Risk Distribution (Low/Medium/High)
 - Stacked Bar Chart: Burnout Levels by Department
 
+![Page 1 - Overview](images/Page%201.png)
+
 ###  Page 2 – Department & Manager Deep Dive
 **Goal**: Identify stress patterns across teams and departments  
 **Visuals**:
 - Cluster Group Column Chart: Employee distribution by wellness cluster
 - Heatmap (Matrix): Stress Level by JobRole and Department
 - Scatter Plot: Manager Support vs Burnout Level (bubble size = WorkHoursPerWeek)
+
+![Page 2 - Department & Manager Deep Dive](images/Page%202.png)
 
 ###  Page 3 – Lifestyle & Remote Work
 **Goal**: Explore correlations between lifestyle factors and productivity  
@@ -105,6 +109,8 @@ An interactive 3-page Power BI dashboard provides actionable insights:
 - Clustered Column Chart: Remote Work vs Job Satisfaction
 - Stacked Bar Chart: Physical Activity vs Burnout Level
 - Optional Map: Employee distribution by Country
+
+![Page 3 - Lifestyle & Remote Work](images/Page%203.png)
 
 ###  Interactivity & Polishing
 - **Filters/Slicers**: Department, JobRole, Country, RemoteWork, Gender
@@ -132,6 +138,10 @@ employee-burnout-analysis/
 │   └── employee_output.csv         # ML-enriched dataset
 ├── scripts/
 │   └── employee_burnout_ml.py      # ML processing and enrichment script
+├── images/
+│   ├── Page 1.png                  # Dashboard Overview Page
+│   ├── Page 2.png                  # Department Analysis Page
+│   └── Page 3.png                  # Lifestyle Analysis Page
 └── dashboard/
     └── Employee_Burnout.pbix       # Power BI dashboard
 ```
