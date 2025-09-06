@@ -133,7 +133,7 @@ employee-burnout-analysis/
 ├── scripts/
 │   └── employee_burnout_ml.py      # ML processing and enrichment script
 └── dashboard/
-    └── Employee_Burnout.pbix       # Power BI dashboard
+    └── Employee Graph.pbix       # Power BI dashboard
 ```
 
 ##  Getting Started
