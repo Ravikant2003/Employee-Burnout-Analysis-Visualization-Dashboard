@@ -90,7 +90,6 @@ An interactive 3-page Power BI dashboard provides actionable insights:
 - KPI Cards: Total Employees, Average Burnout, % High Risk, Avg Work-Life Balance
 - Pie Chart: Burnout Risk Distribution (Low/Medium/High)
 - Stacked Bar Chart: Burnout Levels by Department
-- Optional Map: Geographic Burnout Distribution
 
 ###  Page 2 – Department & Manager Deep Dive
 **Goal**: Identify stress patterns across teams and departments  
