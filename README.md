@@ -4,6 +4,9 @@
 
 This project analyzes employee burnout risk, wellness patterns, and lifestyle factors using **Machine Learning** and **Power BI visualizations**. The goal is to help HR and management identify high-risk employees, understand stress drivers, and improve workforce wellbeing.
 
+Note : The Working Demonstartion of it can be found in this Video: https://youtu.be/NwrJHvoRfyU
+
+
 The project consists of two main components:
 - **Machine Learning & Data Processing**
 - **Interactive Power BI Dashboard** for insights
