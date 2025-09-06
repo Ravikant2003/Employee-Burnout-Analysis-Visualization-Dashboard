@@ -108,7 +108,6 @@ An interactive 3-page Power BI dashboard provides actionable insights:
 - Line Chart: Sleep Hours vs Average Productivity
 - Clustered Column Chart: Remote Work vs Job Satisfaction
 - Stacked Bar Chart: Physical Activity vs Burnout Level
-- Optional Map: Employee distribution by Country
 
 ![Page 3 - Lifestyle & Remote Work](images/Page%203.png)
 
@@ -117,7 +116,7 @@ An interactive 3-page Power BI dashboard provides actionable insights:
 - **Drill-through**: View individual employee details from department-level charts
 - **Color Coding**:
   - Low Risk → Green
-  - Medium Risk → Orange
+  - Medium Risk → Yellow
   - High Risk → Red
 - Professional titles and subtitles for stakeholder presentation
 
