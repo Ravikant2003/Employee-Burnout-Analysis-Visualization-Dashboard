@@ -6,6 +6,7 @@ This project analyzes employee burnout risk, wellness patterns, and lifestyle fa
 
 Note : The Working Demonstartion of it can be found in this Video: https://youtu.be/NwrJHvoRfyU
 
+Original Dataset Link : https://www.kaggle.com/datasets/khushikyad001/mental-health-and-burnout-in-the-workplace?resource=download
 
 The project consists of two main components:
 - **Machine Learning & Data Processing**
